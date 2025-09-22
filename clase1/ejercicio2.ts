@@ -3,7 +3,7 @@ Declara una variable con el tipo any, asigna inicialmente un valor numérico,
 luego cambia su valor por una cadena de texto, y finalmente imprime ambos
 valores.*/
 
-let numero: any = 17 
+export let numero: any = 17 
 console.log(numero)
 numero = "majo"
 console.log(numero)

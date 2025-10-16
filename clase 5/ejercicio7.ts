@@ -23,5 +23,5 @@ class Coche {
 
 
 const miCoche = new Coche("Toyota", "Corolla", 25000);
-miCoche.mostrarInformacion();
+miCoche.mostrarInformacion(); 
 
